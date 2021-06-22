@@ -1,0 +1,58 @@
+hibernate:
+  dialect: org.hibernate.dialect.MySQL8Dialect
+
+server:
+  port: 8080
+  servlet:
+    encoding:
+      charset: UTF-8
+      enabled: true
+      force: true
+
+spring:
+  servlet:
+    multipart.max-file-size: 10240KB
+    multipart.max-request-size: 10240KB
+  jpa:
+    show-sql: false
+    hibernate:
+      ddl-auto: validate
+  datasource:
+    url: jdbc:${CLEARDB_DATABASE_URL:mysql://localhost:3306/diplom?serverTimezone=UTC}
+    username: root
+    password: 27526976
+
+upload.path: upload/images
+avatar.path: upload/avatars
+maxFileSize: 1048576
+
+email:
+  host:
+  port:
+  siteAddress:
+  domain:
+  senderName:
+  mailgunUsername:
+  mailgunPassword:
+
+#Поля инициализации
+blog:
+  title: DevPub
+  subtitle: Рассказы разработчиков
+  phone: +7 917 737 16 60
+  emailInit: lev.bellendir@yandex.ru
+  copyright: Лев Беллендир
+  copyrightFrom: 2021
+
+#Длина текста отображаемого на превью поста
+announceLength: 300
+
+#Размер аватара
+avatar:
+  width: 36
+  height: 36
+
+#Максимальный размер загружаемой в пост картинки
+picture:
+  width: 640
+  height: 480

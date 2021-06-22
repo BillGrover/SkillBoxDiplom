@@ -1,0 +1,49 @@
+INSERT INTO tag2post (id, post_id, tag_id) VALUES (1, 3, 1);
+INSERT INTO tag2post (id, post_id, tag_id) VALUES (2, 4, 1);
+INSERT INTO tag2post (id, post_id, tag_id) VALUES (3, 5, 1);
+INSERT INTO tag2post (id, post_id, tag_id) VALUES (4, 6, 2);
+INSERT INTO tag2post (id, post_id, tag_id) VALUES (5, 7, 2);
+INSERT INTO tag2post (id, post_id, tag_id) VALUES (6, 8, 2);
+INSERT INTO tag2post (id, post_id, tag_id) VALUES (7, 9, 3);
+INSERT INTO tag2post (id, post_id, tag_id) VALUES (8, 10, 3);
+INSERT INTO tag2post (id, post_id, tag_id) VALUES (9, 11, 3);
+INSERT INTO tag2post (id, post_id, tag_id) VALUES (10, 12, 4);
+INSERT INTO tag2post (id, post_id, tag_id) VALUES (11, 13, 4);
+INSERT INTO tag2post (id, post_id, tag_id) VALUES (12, 14, 4);
+INSERT INTO tag2post (id, post_id, tag_id) VALUES (13, 15, 5);
+INSERT INTO tag2post (id, post_id, tag_id) VALUES (14, 16, 5);
+INSERT INTO tag2post (id, post_id, tag_id) VALUES (15, 17, 5);
+
+INSERT INTO tag2post (id, post_id, tag_id) VALUES (16, 3, 6);
+INSERT INTO tag2post (id, post_id, tag_id) VALUES (17, 4, 6);
+INSERT INTO tag2post (id, post_id, tag_id) VALUES (18, 5, 6);
+INSERT INTO tag2post (id, post_id, tag_id) VALUES (19, 6, 6);
+INSERT INTO tag2post (id, post_id, tag_id) VALUES (20, 7, 6);
+INSERT INTO tag2post (id, post_id, tag_id) VALUES (21, 8, 6);
+INSERT INTO tag2post (id, post_id, tag_id) VALUES (22, 9, 6);
+INSERT INTO tag2post (id, post_id, tag_id) VALUES (23, 10, 6);
+INSERT INTO tag2post (id, post_id, tag_id) VALUES (24, 11, 6);
+INSERT INTO tag2post (id, post_id, tag_id) VALUES (25, 12, 6);
+INSERT INTO tag2post (id, post_id, tag_id) VALUES (26, 13, 6);
+INSERT INTO tag2post (id, post_id, tag_id) VALUES (27, 14, 6);
+INSERT INTO tag2post (id, post_id, tag_id) VALUES (28, 15, 6);
+INSERT INTO tag2post (id, post_id, tag_id) VALUES (29, 16, 6);
+INSERT INTO tag2post (id, post_id, tag_id) VALUES (30, 17, 6);
+
+INSERT INTO tag2post (id, post_id, tag_id) VALUES (31, 3, 7);
+INSERT INTO tag2post (id, post_id, tag_id) VALUES (32, 4, 7);
+INSERT INTO tag2post (id, post_id, tag_id) VALUES (33, 6, 7);
+INSERT INTO tag2post (id, post_id, tag_id) VALUES (34, 7, 7);
+INSERT INTO tag2post (id, post_id, tag_id) VALUES (35, 9, 7);
+INSERT INTO tag2post (id, post_id, tag_id) VALUES (36, 10, 7);
+INSERT INTO tag2post (id, post_id, tag_id) VALUES (37, 12, 7);
+INSERT INTO tag2post (id, post_id, tag_id) VALUES (38, 13, 7);
+INSERT INTO tag2post (id, post_id, tag_id) VALUES (39, 15, 7);
+INSERT INTO tag2post (id, post_id, tag_id) VALUES (40, 16, 7);
+
+INSERT INTO tag2post (id, post_id, tag_id) VALUES (41, 3, 8);
+INSERT INTO tag2post (id, post_id, tag_id) VALUES (42, 6, 8);
+INSERT INTO tag2post (id, post_id, tag_id) VALUES (43, 9, 8);
+INSERT INTO tag2post (id, post_id, tag_id) VALUES (44, 12, 8);
+INSERT INTO tag2post (id, post_id, tag_id) VALUES (45, 15, 8);
+
