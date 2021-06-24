@@ -1,6 +1,7 @@
 # SkillboxDiplom
 Дипломный проект, выполненный в процессе обучения в Skillbox.
 Суть проекта - движок блога. Фронт был предоставлен вместе с API в качестве исходного условия проекта.
+Развернутое приложение https://skillboxdiploma.herokuapp.com/
 
 При разработке движка использовались технологии: Spring (Boot, Data JPA, Security), FlyWay, ImageSCALR, MySQL.  
 Проект разворачивается на localhost.   
